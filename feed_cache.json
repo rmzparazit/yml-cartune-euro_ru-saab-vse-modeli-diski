@@ -1,0 +1,129 @@
+{
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0def4f/": {
+        "fingerprint": "3360a9c7e33ce451054afb9c26b7b764",
+        "raw_data": {
+            "h1_title": "Диски Saab 9-3 2007",
+            "brand": "SAAB",
+            "price_raw": "39999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_374.jpg"
+            ],
+            "specs": {},
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Оригинальные диски Saab 9-3 2007 9440 B207R 12785710 контрактные",
+            "sales_notes": "7J R17 ET41, без варок и трещин",
+            "custom_labels": [
+                "Контрактный",
+                "SAAB",
+                "Б/У",
+                "Диски"
+            ],
+            "variations": [
+                {
+                    "title": "Диски Saab 9-3 2007",
+                    "description": "Оригинальные диски Saab 9-3 2007 9440 B207R 12785710 контрактные. Размер 7J R17 ET41. Без варок и трещин. В наличии в Москве."
+                },
+                {
+                    "title": "Диски Saab 9-3 2007",
+                    "description": "Контрактные диски Saab 9-3 2007 9440 B207R 12785710. Оригинал. 7J R17 ET41. Состояние отличное, без дефектов."
+                },
+                {
+                    "title": "Диски Saab 9-3 2007",
+                    "description": "Диски Saab 9-3 2007 9440 B207R 12785710. Оригинальные, контрактные. Размер 7J R17 ET41. Проверены, без трещин и варок."
+                },
+                {
+                    "title": "Диски Saab 9-3 2007",
+                    "description": "Оригинальные диски Saab 9-3 2007 9440 B207R 12785710. Контрактные. 7J R17 ET41. В хорошем состоянии, без повреждений."
+                },
+                {
+                    "title": "Диски Saab 9-3 2007",
+                    "description": "Контрактные диски Saab 9-3 2007 9440 B207R 12785710. Оригинал. Размер 7J R17 ET41. Без варок и трещин. В наличии."
+                },
+                {
+                    "title": "Диски Saab 9-3 2007",
+                    "description": "Диски Saab 9-3 2007 9440 B207R 12785710. Оригинальные, контрактные. 7J R17 ET41. Состояние отличное, без дефектов."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Оригинальные [Товар] [Марка] [Модель] [Год] [Кузов] [Двигатель] [Номер] контрактные. [Характеристики]. [Состояние].",
+            "collection_description": "Контрактная Диски SAAB 9-3 2007",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-06T00:02:25.865315"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0dca2c/": {
+        "fingerprint": "3360a9c7e33ce451054afb9c26b7b764",
+        "raw_data": {
+            "h1_title": "Диски Saab 9-3 2007 9440 B207R",
+            "brand": "SAAB",
+            "price_raw": "39999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/03/0011_03_704.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/03/0011_03_705.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/03/0011_03_706.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/03/0011_03_707.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/03/0011_03_708.jpg"
+            ],
+            "specs": {
+                "Марка": "Saab",
+                "Модель": "9-3",
+                "Кузов": "9440",
+                "Двигатель": "B207R",
+                "Год": "2007",
+                "Номер по производителю": "12785710",
+                "Производитель": "SAAB",
+                "Размер": "7J R17 ET41"
+            },
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Оригинальные диски Saab 9-3 2007, без варок и трещин, 7J R17 ET41",
+            "sales_notes": "В наличии в Москве, контрактные",
+            "custom_labels": [
+                "Контрактный",
+                "SAAB",
+                "Б/У",
+                "Диски"
+            ],
+            "variations": [
+                {
+                    "title": "Диски Saab 9-3 2007 9440 B207R",
+                    "description": "Оригинальные диски Saab 9-3 2007, сняты с автомобиля. Без варок и трещин. Размер 7J R17 ET41. Номер 12785710. В наличии в Москве."
+                },
+                {
+                    "title": "Диски Saab 9-3 2007 9440 B207R",
+                    "description": "Контрактные диски Saab 9-3 2007, кузов 9440, двигатель B207R. Оригинал, без дефектов. 7J R17 ET41. Подходят для Saab 9-3."
+                },
+                {
+                    "title": "Диски Saab 9-3 2007 9440 B207R",
+                    "description": "Оригинальные диски Saab 9-3 2007 года. Состояние отличное, без варок и трещин. Размер 7J R17 ET41. Артикул 12785710."
+                },
+                {
+                    "title": "Диски Saab 9-3 2007 9440 B207R",
+                    "description": "Диски Saab 9-3 2007, оригинал. Сняты с автомобиля Saab 9-3 2007, кузов 9440, двигатель B207R. Размер 7J R17 ET41."
+                },
+                {
+                    "title": "Диски Saab 9-3 2007 9440 B207R",
+                    "description": "Оригинальные диски Saab 9-3 2007, без варок и трещин. Размер 7J R17 ET41. Номер по производителю 12785710. В наличии."
+                },
+                {
+                    "title": "Диски Saab 9-3 2007 9440 B207R",
+                    "description": "Контрактные диски Saab 9-3 2007, оригинал. Состояние хорошее, без дефектов. 7J R17 ET41. Подходят для Saab 9-3."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Оригинальные [деталь] [марка] [модель] [год], сняты с автомобиля. [Состояние]. [Размер]. [Артикул].",
+            "collection_description": "Контрактная Диски SAAB 9-3 (кузов 9440, двс B207R)",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-06T00:02:54.308238"
+    }
+}

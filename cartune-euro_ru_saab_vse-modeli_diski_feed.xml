@@ -1,0 +1,360 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2026-05-06 00:02">
+  <shop>
+    <name>cartune-euro.ru</name>
+    <company>cartune-euro.ru</company>
+    <url>https://cartune-euro.ru/</url>
+    <currencies>
+      <currency id="RUB" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="3209322531">Диски для Saab всех моделей</category>
+    </categories>
+    <offers>
+      <offer id="250198263181515028987293687380004713246" available="true" type="vendor.model">
+        <name>Диски Saab 9-3 2007 c доставкой</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0def4f/</url>
+        <price>39999</price>
+        <oldprice>43998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_374.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>SAAB</vendor>
+        <model>9-3 2007</model>
+        <description>Оригинальные диски Saab 9-3 2007 9440 B207R 12785710 контрактные. Размер 7J R17 ET41. Без варок и трещин. В наличии в Москве</description>
+        <sales_notes>7J R17 ET41, без варок и трещин</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>SAAB</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+      </offer>
+      <offer id="98429631184562582573753551411028185695" available="true" type="vendor.model">
+        <name>Диски Saab 9-3 2007 с гарантией</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0def4f/</url>
+        <price>39999</price>
+        <oldprice>43998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_374.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>SAAB</vendor>
+        <model>9-3 2007</model>
+        <description>Контрактные диски Saab 9-3 2007 9440 B207R 12785710. Оригинал. 7J R17 ET41. Состояние отличное, без дефектов</description>
+        <sales_notes>7J R17 ET41, без варок и трещин</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>SAAB</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+      </offer>
+      <offer id="234566976828042626905817540335533826764" available="true" type="vendor.model">
+        <name>Диски Saab 9-3 2007 заказать</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0def4f/</url>
+        <price>39999</price>
+        <oldprice>43998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_374.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>SAAB</vendor>
+        <model>9-3 2007</model>
+        <description>Диски Saab 9-3 2007 9440 B207R 12785710. Оригинальные, контрактные. Размер 7J R17 ET41. Проверены, без трещин и варок</description>
+        <sales_notes>7J R17 ET41, без варок и трещин</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>SAAB</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+      </offer>
+      <offer id="51974613669925192051958242267969856927" available="true" type="vendor.model">
+        <name>Диски Saab 9-3 2007 купить</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0def4f/</url>
+        <price>39999</price>
+        <oldprice>43998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_374.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>SAAB</vendor>
+        <model>9-3 2007</model>
+        <description>Оригинальные диски Saab 9-3 2007 9440 B207R 12785710. Контрактные. 7J R17 ET41. В хорошем состоянии, без повреждений</description>
+        <sales_notes>7J R17 ET41, без варок и трещин</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>SAAB</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+      </offer>
+      <offer id="193945981905472428448612543273560900458" available="true" type="vendor.model">
+        <name>Диски Saab 9-3 2007 по низкой цене</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0def4f/</url>
+        <price>39999</price>
+        <oldprice>43998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_374.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>SAAB</vendor>
+        <model>9-3 2007</model>
+        <description>Контрактные диски Saab 9-3 2007 9440 B207R 12785710. Оригинал. Размер 7J R17 ET41. Без варок и трещин. В наличии</description>
+        <sales_notes>7J R17 ET41, без варок и трещин</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>SAAB</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+      </offer>
+      <offer id="287732992213570549632888001809174678226" available="true" type="vendor.model">
+        <name>Диски Saab 9-3 2007 узнать стоимость</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0def4f/</url>
+        <price>39999</price>
+        <oldprice>43998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_374.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>SAAB</vendor>
+        <model>9-3 2007</model>
+        <description>Диски Saab 9-3 2007 9440 B207R 12785710. Оригинальные, контрактные. 7J R17 ET41. Состояние отличное, без дефектов</description>
+        <sales_notes>7J R17 ET41, без варок и трещин</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>SAAB</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+      </offer>
+      <offer id="71722649443857700459963975271377460777" available="true" type="vendor.model">
+        <name>Диски Saab 9-3 2007 9440 B207R c доставкой</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dca2c/</url>
+        <price>39999</price>
+        <oldprice>43998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/03/0011_03_704.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/03/0011_03_705.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/03/0011_03_706.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/03/0011_03_707.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/03/0011_03_708.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>SAAB</vendor>
+        <model>9-3 2007 9440 B207R</model>
+        <description>Оригинальные диски Saab 9-3 2007, сняты с автомобиля. Без варок и трещин. Размер 7J R17 ET41. Номер 12785710. В наличии в Москве</description>
+        <sales_notes>В наличии в Москве, контрактные</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>SAAB</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+        <param name="Кузов">9440</param>
+        <param name="Двигатель">B207R</param>
+        <param name="Год">2007</param>
+        <param name="Номер по производителю">12785710</param>
+        <param name="Размер">7J R17 ET41</param>
+      </offer>
+      <offer id="113857980934074510776917346215747726013" available="true" type="vendor.model">
+        <name>Диски Saab 9-3 2007 9440 B207R с гарантией</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dca2c/</url>
+        <price>39999</price>
+        <oldprice>43998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/03/0011_03_704.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/03/0011_03_705.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/03/0011_03_706.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/03/0011_03_707.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/03/0011_03_708.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>SAAB</vendor>
+        <model>9-3 2007 9440 B207R</model>
+        <description>Контрактные диски Saab 9-3 2007, кузов 9440, двигатель B207R. Оригинал, без дефектов. 7J R17 ET41. Подходят для Saab 9-3</description>
+        <sales_notes>В наличии в Москве, контрактные</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>SAAB</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+        <param name="Кузов">9440</param>
+        <param name="Двигатель">B207R</param>
+        <param name="Год">2007</param>
+        <param name="Номер по производителю">12785710</param>
+        <param name="Размер">7J R17 ET41</param>
+      </offer>
+      <offer id="54254538060817304880186364386959952729" available="true" type="vendor.model">
+        <name>Диски Saab 9-3 2007 9440 B207R заказать</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dca2c/</url>
+        <price>39999</price>
+        <oldprice>43998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/03/0011_03_704.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/03/0011_03_705.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/03/0011_03_706.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/03/0011_03_707.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/03/0011_03_708.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>SAAB</vendor>
+        <model>9-3 2007 9440 B207R</model>
+        <description>Оригинальные диски Saab 9-3 2007 года. Состояние отличное, без варок и трещин. Размер 7J R17 ET41. Артикул 12785710</description>
+        <sales_notes>В наличии в Москве, контрактные</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>SAAB</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+        <param name="Кузов">9440</param>
+        <param name="Двигатель">B207R</param>
+        <param name="Год">2007</param>
+        <param name="Номер по производителю">12785710</param>
+        <param name="Размер">7J R17 ET41</param>
+      </offer>
+      <offer id="296792045685041703966154553706723312523" available="true" type="vendor.model">
+        <name>Диски Saab 9-3 2007 9440 B207R купить</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dca2c/</url>
+        <price>39999</price>
+        <oldprice>43998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/03/0011_03_704.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/03/0011_03_705.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/03/0011_03_706.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/03/0011_03_707.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/03/0011_03_708.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>SAAB</vendor>
+        <model>9-3 2007 9440 B207R</model>
+        <description>Диски Saab 9-3 2007, оригинал. Сняты с автомобиля Saab 9-3 2007, кузов 9440, двигатель B207R. Размер 7J R17 ET41</description>
+        <sales_notes>В наличии в Москве, контрактные</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>SAAB</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+        <param name="Кузов">9440</param>
+        <param name="Двигатель">B207R</param>
+        <param name="Год">2007</param>
+        <param name="Номер по производителю">12785710</param>
+        <param name="Размер">7J R17 ET41</param>
+      </offer>
+      <offer id="301456322941366911478622744989967017634" available="true" type="vendor.model">
+        <name>Диски Saab 9-3 2007 9440 B207R по низкой цене</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dca2c/</url>
+        <price>39999</price>
+        <oldprice>43998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/03/0011_03_704.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/03/0011_03_705.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/03/0011_03_706.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/03/0011_03_707.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/03/0011_03_708.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>SAAB</vendor>
+        <model>9-3 2007 9440 B207R</model>
+        <description>Оригинальные диски Saab 9-3 2007, без варок и трещин. Размер 7J R17 ET41. Номер по производителю 12785710. В наличии</description>
+        <sales_notes>В наличии в Москве, контрактные</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>SAAB</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+        <param name="Кузов">9440</param>
+        <param name="Двигатель">B207R</param>
+        <param name="Год">2007</param>
+        <param name="Номер по производителю">12785710</param>
+        <param name="Размер">7J R17 ET41</param>
+      </offer>
+      <offer id="10006890779382616741811241181494578131" available="true" type="vendor.model">
+        <name>Диски Saab 9-3 2007 9440 B207R узнать стоимость</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dca2c/</url>
+        <price>39999</price>
+        <oldprice>43998</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3209322531</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/03/0011_03_704.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/03/0011_03_705.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/03/0011_03_706.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/03/0011_03_707.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/03/0011_03_708.jpg</picture>
+        <typePrefix>Диски</typePrefix>
+        <vendor>SAAB</vendor>
+        <model>9-3 2007 9440 B207R</model>
+        <description>Контрактные диски Saab 9-3 2007, оригинал. Состояние хорошее, без дефектов. 7J R17 ET41. Подходят для Saab 9-3</description>
+        <sales_notes>В наличии в Москве, контрактные</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>SAAB</custom_label_1>
+        <custom_label_2>Б/У</custom_label_2>
+        <custom_label_3>Диски</custom_label_3>
+        <param name="Кузов">9440</param>
+        <param name="Двигатель">B207R</param>
+        <param name="Год">2007</param>
+        <param name="Номер по производителю">12785710</param>
+        <param name="Размер">7J R17 ET41</param>
+      </offer>
+    </offers>
+    <collections>
+      <collection id="col_250198263181515028987293687380004713246">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0def4f/</url>
+        <name>Диски Saab 9-3 2007 c доставкой</name>
+        <description>Контрактная Диски SAAB 9-3 2007</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_374.jpg</picture>
+      </collection>
+      <collection id="col_98429631184562582573753551411028185695">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0def4f/</url>
+        <name>Диски Saab 9-3 2007 с гарантией</name>
+        <description>Контрактная Диски SAAB 9-3 2007</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_374.jpg</picture>
+      </collection>
+      <collection id="col_234566976828042626905817540335533826764">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0def4f/</url>
+        <name>Диски Saab 9-3 2007 заказать</name>
+        <description>Контрактная Диски SAAB 9-3 2007</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_374.jpg</picture>
+      </collection>
+      <collection id="col_51974613669925192051958242267969856927">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0def4f/</url>
+        <name>Диски Saab 9-3 2007 купить</name>
+        <description>Контрактная Диски SAAB 9-3 2007</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_374.jpg</picture>
+      </collection>
+      <collection id="col_193945981905472428448612543273560900458">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0def4f/</url>
+        <name>Диски Saab 9-3 2007 по низкой цене</name>
+        <description>Контрактная Диски SAAB 9-3 2007</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_374.jpg</picture>
+      </collection>
+      <collection id="col_287732992213570549632888001809174678226">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0def4f/</url>
+        <name>Диски Saab 9-3 2007 узнать стоимость</name>
+        <description>Контрактная Диски SAAB 9-3 2007</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/04/0011_04_374.jpg</picture>
+      </collection>
+      <collection id="col_71722649443857700459963975271377460777">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dca2c/</url>
+        <name>Диски Saab 9-3 2007 9440 B207R c доставкой</name>
+        <description>Контрактная Диски SAAB 9-3 (кузов 9440, двс B207R)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/03/0011_03_704.jpg</picture>
+      </collection>
+      <collection id="col_113857980934074510776917346215747726013">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dca2c/</url>
+        <name>Диски Saab 9-3 2007 9440 B207R с гарантией</name>
+        <description>Контрактная Диски SAAB 9-3 (кузов 9440, двс B207R)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/03/0011_03_704.jpg</picture>
+      </collection>
+      <collection id="col_54254538060817304880186364386959952729">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dca2c/</url>
+        <name>Диски Saab 9-3 2007 9440 B207R заказать</name>
+        <description>Контрактная Диски SAAB 9-3 (кузов 9440, двс B207R)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/03/0011_03_704.jpg</picture>
+      </collection>
+      <collection id="col_296792045685041703966154553706723312523">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dca2c/</url>
+        <name>Диски Saab 9-3 2007 9440 B207R купить</name>
+        <description>Контрактная Диски SAAB 9-3 (кузов 9440, двс B207R)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/03/0011_03_704.jpg</picture>
+      </collection>
+      <collection id="col_301456322941366911478622744989967017634">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dca2c/</url>
+        <name>Диски Saab 9-3 2007 9440 B207R по низкой цене</name>
+        <description>Контрактная Диски SAAB 9-3 (кузов 9440, двс B207R)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/03/0011_03_704.jpg</picture>
+      </collection>
+      <collection id="col_10006890779382616741811241181494578131">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0dca2c/</url>
+        <name>Диски Saab 9-3 2007 9440 B207R узнать стоимость</name>
+        <description>Контрактная Диски SAAB 9-3 (кузов 9440, двс B207R)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/03/0011_03_704.jpg</picture>
+      </collection>
+    </collections>
+  </shop>
+</yml_catalog>
